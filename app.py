@@ -11,7 +11,7 @@ with st.sidebar:
     st.image("https://github.com/sid-almeida/fernando_elemar_dados/blob/main/Brainize%20Tech%20(1).png?raw=true", width=250)
     st.title("Dashboard de Alunos")
     choice = option_menu(
-        None, ["Sobre", "DataSet", "Dashboard", "Contato"],
+        None, ["Sobre", "DataSet", "Dashboard"],
     icons=["file-person-fill", "table", "bar-chart-fill", "telephone-fill"])
 
     st.info('**Nota:** Esta aplicação foi desenvolvida com base em dados específicos e destina-se apenas a esse propósito. Por favor, evite utilizá-la para outros fins.')
@@ -149,3 +149,5 @@ if choice == "Dashboard":
             st.pyplot(fig7)
             st.info('**Nota:** Para melhorar a visibilidade, favor utilizar o botão de FullScreen no canto superior direito.')
             st.write('---')
+
+st.write('Made with ❤️ by [Sidnei Almeida](https://www.linkedin.com/in/saaelmeida93/)')
