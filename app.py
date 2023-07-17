@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import openpyxl
 # load the data
-data = pd.read_csv('https://raw.githubusercontent.com/sid-almeida/fernando_elemar_dados/main/fernanddo.csv?token=GHSAT0AAAAAACEWO6QOFKVV4PHQSQ5ZEWQQZFVTKIA', encoding='cp1258', index_col=0)
+data = pd.read_csv('https://raw.githubusercontent.com/sid-almeida/fernando_elemar_dados/main/fernanddo.csv?token=GHSAT0AAAAAACEWO6QOTWPBB3UKFAO3RFNYZFVTREA', encoding='cp1258', index_col=0)
 
 with st.sidebar:
     st.image("https://github.com/sid-almeida/fernando_elemar_dados/blob/main/Brainize%20Tech%20(1).png?raw=true", width=250)
