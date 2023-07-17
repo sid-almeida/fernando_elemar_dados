@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import openpyxl
 # load the data
-data = pd.read_excel('https://github.com/sid-almeida/fernando_elemar_dados/blob/2c784cf8a24070bfa616f927e94ac9a5a9372a25/fernando.xltx', index_col=0)
+data = pd.read_excel('https://github.com/sid-almeida/fernando_elemar_dados/blob/main/fernando.xltx', index_col=0)
 
 with st.sidebar:
     st.image("https://github.com/sid-almeida/fernando_elemar_dados/blob/main/Brainize%20Tech%20(1).png?raw=true", width=250)
