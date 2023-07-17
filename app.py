@@ -8,7 +8,7 @@ import openpyxl
 data = pd.read_csv('https://raw.githubusercontent.com/sid-almeida/fernando_elemar_dados/main/fernanddo.csv?token=GHSAT0AAAAAACEWO6QOTOF2TKL2W73HMRXOZFVTTXA', encoding='cp1258', index_col=0)
 
 with st.sidebar:
-    st.image("https://github.com/sid-almeida/fernando_elemar_dados/blob/main/Brainize%20Tech%20(1).png?raw=true", width=250)
+    st.image("https://github.com/sid-almeida/fernando_elemar_dados/blob/d8bcb49ffca0bafc2ff29b132d9de2049c107928/Brainize%20Tech%20(1).png", width=250)
     st.title("Dashboard de Alunos")
     choice = option_menu(
         None, ["Sobre", "DataSet", "Dashboard"],
