@@ -24,8 +24,8 @@ if choice == "Sobre":
     st.write('---')
     st.write('**Sobre o App:**')
     st.write("""
-        Ao utilizar o Streamlit, conseguimos construir uma interface web simples e intuitiva, permitindo uma experiência de uso fluida e acessível. Com o Dash, conseguimos adicionar recursos de criação de painéis interativos, possibilitando uma visualização dinâmica dos dados.
-O grande destaque do aplicativo é o uso da biblioteca Plotly, que oferece uma ampla variedade de gráficos interativos e personalizáveis. Com o Plotly, podemos criar gráficos de linha, barras, dispersão, mapas de calor e muito mais, garantindo uma apresentação visualmente atraente e informativa dos dados dos alunos.
+        Ao utilizar o Streamlit, conseguimos construir uma interface web simples e intuitiva, permitindo uma experiência de uso fluida e acessível, além de adicionar recursos de criação de painéis interativos, possibilitando uma visualização dinâmica dos dados.
+O grande destaque do aplicativo é o uso da biblioteca Seaborn, que oferece uma ampla variedade de gráficos interativos e personalizáveis. Com o Plotly, podemos criar gráficos de linha, barras, dispersão, mapas de calor e muito mais, garantindo uma apresentação visualmente atraente e informativa dos dados dos alunos.
 A combinação dessas bibliotecas nos permitiu desenvolver um aplicativo rico em recursos, fornecendo uma interface amigável para explorar e analisar os dados dos alunos do Professor Fernando. Esperamos que essa ferramenta seja uma fonte valiosa de informações e insights para melhorar o acompanhamento e a tomada de decisões relacionadas aos alunos.
         """)
     st.info(
