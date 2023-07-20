@@ -29,7 +29,7 @@ O grande destaque do aplicativo é o uso da biblioteca Seaborn, que oferece uma 
 A combinação dessas bibliotecas nos permitiu desenvolver um aplicativo rico em recursos, fornecendo uma interface amigável para explorar e analisar os dados dos alunos do Professor Fernando. Esperamos que essa ferramenta seja uma fonte valiosa de informações e insights para melhorar o acompanhamento e a tomada de decisões relacionadas aos alunos.
         """)
     st.info(
-        '**Note:** Please be aware that this application is intended solely for educational purposes. It is strongly advised against utilizing this tool for making any financial decisions.')
+        '**Nota:** Esta aplicação foi desenvolvida com base em dados específicos e destina-se apenas a esse propósito. Por favor, evite utilizá-la para outros fins.')
     st.write('---')
 
 if choice == "DataSet":
