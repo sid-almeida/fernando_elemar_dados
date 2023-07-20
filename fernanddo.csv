@@ -1,17 +1,34 @@
 Estudante,Curso,Modalidade,Termo Aditivo,Data Inicial,Data Final,Agente Integrador,Concedente,Orientador,Supervisor,Status
-Valeska In?s Bortagaray,Tï¿½cnico Em Administraï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,01/10/21,07/01/22,Campus,IFRS - Campus Caxias do Sul,1,1,Concluï¿½do
-Mayara Irma Baldi Amancio,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,0,0,Campus,Marcopolo S/A ,1,1,Indeferido
-Henrique Grando,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,06/03/23,10/04/23,Campus,Gl Eletro-Eletronicos Ltda,1,1,Concluï¿½do
-Larissa dos Santos de Almeida,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,31/01/22,10/02/22,Campus,Castertech Fundi??o E Tecnologia Ltda,1,0,Concluï¿½do
-Mayara Irma Baldi Amancio,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,01/10/21,07/01/22,Campus,Marcopolo S/A ,1,1,Concluï¿½do
-Samuel Ditadi Nunes,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,06/03/23,10/04/23,Campus,Fras-Le S/A,1,0,Concluï¿½do
-Taynara de Almeida,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,06/03/23,10/04/23,Campus,Marcopolo S/A,1,0,Concluï¿½do
-Laura Chagas de Oliveira,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,06/03/23,10/04/23,Campus,Antares Acoplamentos LTDA.,1,0,Concluï¿½do
-Milena Brondani Bergalli,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,13/03/23,17/04/23,CIEE,Legrand - GL Eletro-Eletr?nicos,1,0,Concluï¿½do
-Fernando Longhi Antoniazzi,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,19/03/23,25/04/23,Campus,Nix Comercio E Servico Em Iluminacao Ltda,1,0,Concluï¿½do
-Let?cia Conte Medeiros,Engenharia De Produï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,27/03/23,03/05/23,Campus,Danfoss Power Solutions Com?rcio e Ind?stria Ltda.,1,0,Concluï¿½do
-Fernando Barbosa da Luz,Processos Gerenciais,Nï¿½o Obrigatï¿½rio via Campus,0,11/07/22,11/01/23,Campus,IFRS - Campus Caxias do Sul,1,0,Encerrado
-Cl?udia Gomes Santos,Engenharia De Produï¿½ï¿½o,Nï¿½o Obrigatï¿½rio via Campus,0,26/04/23,26/10/23,Campus,IFRS - Campus Caxias do Sul,1,0,Em andamento
-Eric Santana Teixeira,Processos Gerenciais,Nï¿½o Obrigatï¿½rio,1,22/08/22,21/02/23,CIEE,Conect Sindico Gestao De Condominios Ltda,1,0,Concluï¿½do
-Dara Chesini Mariani,Processos Gerenciais,Nï¿½o Obrigatï¿½rio,0,07/11/22,05/11/24,INV ,Promob Softwares SA,1,0,Em andamento
-Roseane Bandeira da Silva,Tï¿½cnico Em Administraï¿½ï¿½o,Obrigatï¿½rio/Aproveitamento,0,01/10/21,07/01/22,Campus,IFRS - Campus Caxias do Sul,1,0,Concluï¿½do
+Valeska In?S Bortagaray,Técnico Em Administração,Obrigatório/Aproveitamento,0,01/10/21,07/01/22,Campus,IFRS - Campus Caxias do Sul,1,1,Concluído
+Mayara Irma Baldi Amancio,Engenharia De Produção,Obrigatório/Aproveitamento,0,0,0,Campus,Marcopolo S/A ,1,1,Indeferido
+Henrique Grando,Engenharia De Produção,Obrigatório/Aproveitamento,0,06/03/23,10/04/23,Campus,Gl Eletro-Eletronicos Ltda,1,1,Concluído
+Larissa Dos Santos De Almeida,Engenharia De Produção,Obrigatório/Aproveitamento,0,31/01/22,10/02/22,Campus,Castertech Fundi??o E Tecnologia Ltda,1,0,Concluído
+Mayara Irma Baldi Amancio,Engenharia De Produção,Obrigatório/Aproveitamento,0,01/10/21,07/01/22,Campus,Marcopolo S/A ,1,1,Concluído
+Samuel Ditadi Nunes,Engenharia De Produção,Obrigatório/Aproveitamento,0,06/03/23,10/04/23,Campus,Fras-Le S/A,1,0,Concluído
+Taynara De Almeida,Engenharia De Produção,Obrigatório/Aproveitamento,0,06/03/23,10/04/23,Campus,Marcopolo S/A,1,0,Concluído
+Laura Chagas De Oliveira,Engenharia De Produção,Obrigatório/Aproveitamento,0,06/03/23,10/04/23,Campus,Antares Acoplamentos LTDA.,1,0,Concluído
+Milena Brondani Bergalli,Engenharia De Produção,Obrigatório/Aproveitamento,0,13/03/23,17/04/23,CIEE,Legrand - GL Eletro-Eletr?nicos,1,0,Concluído
+Fernando Longhi Antoniazzi,Engenharia De Produção,Obrigatório/Aproveitamento,0,19/03/23,25/04/23,Campus,Nix Comercio E Servico Em Iluminacao Ltda,1,0,Concluído
+Let?Cia Conte Medeiros,Engenharia De Produção,Obrigatório/Aproveitamento,0,27/03/23,03/05/23,Campus,Danfoss Power Solutions Com?rcio e Ind?stria Ltda.,1,0,Concluído
+Fernando Barbosa Da Luz,Processos Gerenciais,Não Obrigatório via Campus,0,11/07/22,11/01/23,Campus,IFRS - Campus Caxias do Sul,1,0,Encerrado
+Cl?Udia Gomes Santos,Engenharia De Produção,Não Obrigatório via Campus,0,26/04/23,26/10/23,Campus,IFRS - Campus Caxias do Sul,1,0,Em andamento
+Eric Santana Teixeira,Processos Gerenciais,Não Obrigatório,1,22/08/22,21/02/23,CIEE,Conect Sindico Gestao De Condominios Ltda,1,0,Concluído
+Dara Chesini Mariani,Processos Gerenciais,Não Obrigatório,0,07/11/22,05/11/24,INV,Promob Softwares SA,1,0,Em andamento
+Roseane Bandeira Da Silva,Técnico Em Administração,Obrigatório/Aproveitamento,0,01/10/21,07/01/22,Campus,IFRS - Campus Caxias do Sul,1,0,Concluído
+Letícia Scortegagna,Engenharia De Produção,NaÞo Obrigatório ,0,10/01/2023,08/01/2025,EEstágios,Hyva Do Brasil Hidraulica Ltda ,1,0,Encerrado
+Wendel Ramos De Jesus,Engenharia De Produção,NaÞo Obrigatório ,0,06/02/2023,04/02/2025,INV,Braslux Indústria de Auto Peças Ltda ,1,0,Em andamento
+Gabriel Varela De Macedo ,Engenharia De Produção,NaÞo Obrigatório ,0,13/02/2023,12/11/2024,EEstágios,Ciferal Industria De Onibus Ltda ,1,0,Encerrado
+Helen Tais Gaspar ,Engenharia De Produção,NaÞo Obrigatório,0,03/04/2023,02/04/2024,CIEE,Gl Eletro-Eletronicos Ltda,1,0,Em andamento
+Felipe Ocana Ennes ,Engenharia De Produção,NaÞo Obrigatório,0,03/04/2023,02/10/2023,CIEE,Randon S/A Implementos E Participacoes,1,0,Em andamento
+Marcelle De Paula Castro Nogueira ,Engenharia De Produção’,NaÞo Obrigatório ,0,10/04/2023,31/12/2023,Feeta ,Eaton LTDA. ,1,0,Em andamento
+Felipe Silvestro Da Silva,Engenharia De Produção,Obrigatório/Aproveitamento,0,03/04/2023,23/05/2023,Campus,Randon S/A Implementos E Participacoes,1,0,Concluído
+Felipe Costa Machado,Engenharia De Produção,NaÞo Obrigatório ,0,03/04/2023,02/04/2024,CIEE,Gl Eletro-Eletronicos Ltda,1,0,Em andamento
+Érica Da Silva,Engenharia De Produção,NaÞo Obrigatório ,0,26/04/2023,24/04/2025,EEstágios,Marcopolo S/A ,1,0,Em andamento
+Jorge Dos Santos Vargas,Engenharia De Produção,NaÞo Obrigatório ,0,05/06/2023,04/12/2023,CIEE,Agrale S/A ,1,0,Em andamento
+Liana Fontoura Maia,Engenharia De Produção,NaÞo Obrigatório ,0,14/06/2023,12/06/2025,INV,Marcopolo S/A ,1,0,Em andamento
+Gabriel Varela De Macedo,Engenharia De Produção,NaÞo Obrigatório ,0,01/07/2023,12/11/2024,EEstágios,Marcopolo S/A ,1,0,Em andamento
+Ana Paula Erthal,Processos Gerenciais,NaÞo Obrigatório ,0,01/02/2023,31/01/2024,CIEE,Prefeitura Municipal De Caxias Do Sul,1,0,Em andamento
+Sidnei Alves De Almeida,Processos Gerenciais,Não Obrigatório via Campus,0,26/06/2023,26/12/2023,Campus,IFRS - Campus Caxias do Sul,1,',Encerrado
+Henrique Souza Dos Santos,Processos Gerenciais,NaÞo Obrigatório,0,09/01/2023,08/01/2024,CIEE,"Cooperativa De Credito, Poupanca E Investimento Sicredi Pioneira Rs Pio X",1,0,Em andamento
+Roseane Bandeira Da Silva,Técnico Em Administração,Obrigatório/Aproveitamento,0,01/10/2021,07/01/2022,Campus,IFRS - Campus Caxias do Sul,1,0,Concluído
+Fernando Longhi Antoniazzi,Engenharia De ProduçaÞo,Obrigatório/Aproveitamento,0,19/03/2023,25/04/2023,Campus,Nix Comercio E Servico Em Iluminacao Ltda,1,0,Concluído
